@@ -18,14 +18,19 @@ public class Userservice {
     private PasswordEncoder passwordEncoder;
     @Autowired
    private Userrepository userrepository;
-    public ResponseEntity<?> createnewuser(User body){
+
+    //crate new user
+    public User createnewuser(User body){
         String encodepassword=passwordEncoder.encode(body.getPassword());
         body.setPassword(encodepassword);
          body.setRoles(Arrays.asList("USER"));
           User savedUser= userrepository.save(body);
-           return ResponseEntity.ok(savedUser);
+//           return ResponseEntity.ok(savedUser);
+
+        return savedUser;
     }
 
+    //find user
     public User finduser(String username) {
         User user = userrepository.findByUsername(username);
         if (user == null) {
@@ -37,12 +42,10 @@ public class Userservice {
 
     }
 
-//    public User finduser(String username){
-//        User user = userrepository.findByUsername(username);
-//        if (user == null) {
-//            throw new RuntimeException("User not found with username: " + username);
-//        }
-//        return user;
-//
-//    }
+    public boolean existsByUsername(String username) {
+        return userrepository.findByUsername(username) !=null;
+    }
+
+
+
 }

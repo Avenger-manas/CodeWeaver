@@ -5,10 +5,13 @@ import com.dolpi.CodeWeaver.Repository.Userrepository;
 //import com.dolpi.CodeWeaver.model.User;
 //import com.dolpi.CodeWeaver.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
+
+import java.util.Collection;
 
 @Service
 public class MyUserDetails implements UserDetailsService {
@@ -29,4 +32,6 @@ public class MyUserDetails implements UserDetailsService {
                 .roles(user.getRoles().toArray(new String[0]))
                 .build();
     }
+
+
 }
