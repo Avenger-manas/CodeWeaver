@@ -29,7 +29,7 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 
 ---
 
-## 📫 Let's Connect
+📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/)  
 - [Email](mailto:manasrastogi64@gmail.com)  
 
