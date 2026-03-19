@@ -22,7 +22,7 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 ![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avenger-manas&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avenger-manas&layout=compact&theme=tokyonight)  
