@@ -5,7 +5,7 @@
 I love turning ideas into scalable, real-world applications.  
 Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamlessly.  
 
----
+
 
 🚀 Tech Stack
 - *Languages:* Java, JavaScript, SQL  
