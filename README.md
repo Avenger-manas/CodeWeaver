@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Manas!  
+ 👋 Hey there, I'm Manas!  
 
 💻 *Java & Spring Boot Developer* | 🛠 Problem Solver | 🚀 Always learning something new  
 
@@ -13,9 +13,9 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 - *Tools:* Git, GitHub, IntelliJ IDEA, Maven  
 - *Databases:* MySQL, PostgreSQL  
 
----
 
-## 🏆 Featured Project
+
+ 🏆 Featured Project
 [CodeWeaver](https://github.com/Avenger-manas/CodeWeaver)
 > A collaborative coding platform where developers can create, edit, and share code in real time.  
 *Tech:* Java, Spring Boot, MySQL, REST APIs  
