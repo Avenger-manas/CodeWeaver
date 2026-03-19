@@ -7,7 +7,7 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 
 ---
 
-## 🚀 Tech Stack
+🚀 Tech Stack
 - *Languages:* Java, JavaScript, SQL  
 - *Frameworks:* Spring Boot, Hibernate, React (Basics)  
 - *Tools:* Git, GitHub, IntelliJ IDEA, Maven  
