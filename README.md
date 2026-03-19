@@ -16,7 +16,7 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 ---
 
 ## 🏆 Featured Project
-### [CodeWeaver](https://github.com/Avenger-manas/CodeWeaver)
+[CodeWeaver](https://github.com/Avenger-manas/CodeWeaver)
 > A collaborative coding platform where developers can create, edit, and share code in real time.  
 *Tech:* Java, Spring Boot, MySQL, REST APIs  
 
