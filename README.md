@@ -35,4 +35,4 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 
 ---
 
-⭐ "Code. Create. Conquer."
+⭐ "Code. Create. Conquer.
