@@ -4,7 +4,11 @@
 
 I love turning ideas into scalable, real-world applications.  
 Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamlessly.  
-
+sn kqjjk qjw qj qmmmanasjkdjeqq d ,ssqmklms
+lkskqsjsk
+smlkSJKL
+SMLalsmaLSK
+SBJSJJsn is
 
 
 🚀 Tech Stack
