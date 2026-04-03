@@ -8,7 +8,7 @@ sn kqjjk qjw qj qmmmanasjkdjeqq d ,ssqmklms
 lkskqsjsk
 smlkSJKL
 SMLalsmaLSK
-SBJSJJsn is
+SBJSJJsn is sm qsnlk qlks
 
 
 🚀 Tech Stack
