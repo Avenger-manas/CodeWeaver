@@ -20,18 +20,10 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 > A collaborative coding platform where developers can create, edit, and share code in real time.  
 *Tech:* Java, Spring Boot, MySQL, REST APIs  
 
+djkdjhdq ijq s
+slqmklm
 
-
-📊 GitHub Stats
-![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avenger-manas&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avenger-manas&layout=compact&theme=tokyonight)  
-
-
-
-📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:manasrastogi64@gmail.com)  
+📊.com)  
 
 
 
