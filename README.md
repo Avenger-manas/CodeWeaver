@@ -8,15 +8,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avenger-manas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Rastogi)
 
 </div>
 
 ---
-sm  lkmlk  m
+
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **[CodeWes sq, , qs,sq, saver](https://github.com/Avenger-manas/CodeWeaver)** — a platform to craft & share code seamlessly
+- 🔭 Currently building **[CodeWeaver](https://github.com/Avenger-manas/CodeWeaver)** — a platform to craft & share code seamlessly
 - 🌱 Always learning something new in the Java & Spring ecosystem
 - 💡 I enjoy turning complex problems into clean, maintainable solutions
 - ⚡ Fun fact: I debug better with coffee ☕
@@ -69,11 +69,11 @@ sm  lkmlk  m
 
 <div align="center">
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avenger-manas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manas-Rastogi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avenger-manas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Rastogi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Avenger-manas&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=Manas-Rastogi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
 </div>
 
@@ -85,7 +85,7 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 
 - 💼 [LinkedIn](https://www.linkedin.com/)
 - 📧 [manasrastogi64@gmail.com](mailto:manasrastogi64@gmail.com)
-- 🐙 [GitHub](https://github.com/Avenger-manas)
+- 🐙 [GitHub](https://github.com/Manas-Rastogi)
 
 ---
 
