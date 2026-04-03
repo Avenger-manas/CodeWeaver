@@ -12,7 +12,7 @@ SBJSJJsn is sm qsnlk qlks
 
 
 🚀 Tech Stack
-- *Languages:* Java, JavaScript, SQL  
+- *Languages:* Java, JavaScript, SQL  s,sm, mssjlnqsk qjwkqj wkjskjqs
 - *Frameworks:* Spring Boot, Hibernate, React (Basics) s,mmq l;l qklkel kel   
 - *Tools:* Git, GitHub, IntelliJ IDEA, Maven  
 - *Databases:* MySQL, PostgreSQL  
