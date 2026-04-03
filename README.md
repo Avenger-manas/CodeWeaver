@@ -27,7 +27,7 @@ SBJSJJsn is
 djkdjhdq ijq s
 slqmklm
 
-📊.com)  
+📊.com)  snk nsqnwn q nsjq jo q
 
 
 
