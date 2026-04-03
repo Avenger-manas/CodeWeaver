@@ -9,7 +9,7 @@ Currently building *CodeWeaver* 🕸 — a platform to craft & share code seamle
 
 🚀 Tech Stack
 - *Languages:* Java, JavaScript, SQL  
-- *Frameworks:* Spring Boot, Hibernate, React (Basics)  
+- *Frameworks:* Spring Boot, Hibernate, React (Basics) s,mmq l;l qklkel kel   
 - *Tools:* Git, GitHub, IntelliJ IDEA, Maven  
 - *Databases:* MySQL, PostgreSQL  
 
