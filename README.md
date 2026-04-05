@@ -4,7 +4,7 @@
 
 ### Java & Spring Boot Developer · Problem Solver · Always Learning
 
-*Turning ideaqwmqwkqkwks into scalable, real-world applications — one commit at a time.*
+*Turning ideaqwmqwkqkwks inwekdqefekwfjFKWEto scalable, real-world applications — one commit at a time.*
 
 [![LinkedIn](https://img.shields.io/badgekwkskwodowjdjowodiowidiidiid/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.lwjieinkedin.com/)sjxio  wj  oqasa
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
