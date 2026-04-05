@@ -1,29 +1,51 @@
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:58A6FF&height=200&section=header&text=Hey,%20I'm%20Manas!%20👋&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Java%20%26%20Spring%20Boot%20Developer%20%7C%20Problem%20Solver%20%7C%20Always%20Learning&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+apps+%F0%9F%9A%80;Java+%26+Spring+Boot+Developer+%E2%98%95;Building+CodeWeaver+%F0%9F%95%B8;Clean+code%2C+real+impact+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Social Badges -->
 <div align="center">
 
-# Hey there, I'm Manas! 👋
-
-### Java & Spring Boot Developer · Problem Solver · Always Learning
-
-*Turning ideaqwmqwkqkwks inwekdqefekwfjFKWEto scalable, real-world applications — one commit at a time.*
-
-[![LinkedIn](https://img.shields.io/badgekwkskwodowjdjowodiowidiidiid/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.lwjieinkedin.com/)sjxio  wj  oqasa
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Rastogi)
-dlqwklklwqdljkw
+[![Profile Views](https://komarev.com/ghpvc/?username=Manas-Rastogi&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Manas-Rastogi)
+
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **[CodeWeaver](https://github.com/Avenger-manas/CodeWeaver)** — a platform to craft & share code seamlessly
-- 🌱 Alwjkdwqkjdk  j ejwlqjekjweekays learning something newjsjsjj sssk in the Java & Spring ecosystem
-- 💡 I enjoy turning klwqwkqo  kwwkqkwqwklwklwqw swwcomplex problems into clean, maintainable solutions
-- ⚡ Fun fact: I debug better with coffee ☕
+```java
+public class Manas extends Developer {
+
+    String name        = "Manas Rastogi";
+    String role        = "Java & Spring Boot Developer";
+    String currentWork = "CodeWeaver 🕸 — craft & share code seamlessly";
+    String learning    = "Spring Security · Microservices · System Design";
+    String motto       = "Clean code. Real impact. Always shipping.";
+
+    String[] funFacts  = {
+        "I debug better with coffee ☕",
+        "Git commit messages are my diary 📓",
+        "I turn 'it works on my machine' into 'it works everywhere' 🌍"
+    };
+}
+```
 
 ---
 
 ## 🚀 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -46,22 +68,29 @@ dlqwklklwqdljkw
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A6?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏆 Featured Project
 
-### 🕸 [CodeWeaver](https://github.com/Avenger-manas/CodeWeaver)
+<div align="center">
 
-> A collaborative coding platform where developers can create, edit, and share code in real time.
+[![CodeWeaver Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas-Rastogi&repo=CodeWeaver&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/Manas-Rastogi/CodeWeaver)
+
+</div>
+
+> 🕸 **CodeWeaver** — A collaborative coding platform where developers can create, edit, and share code in real time.
 
 | | |
-|---|---|
-| **Tech Stack** | Java · Spring Boot · MySQL · REST APIs |
-| **Status** | 🟢 Active Development |
-| **Type** | Full-Stack Web Application |
+|:---|:---|
+| 🛠 **Tech Stack** | Java · Spring Boot · MySQL · REST APIs |
+| 🟢 **Status** | Active Development |
+| 🏗 **Type** | Full-Stack Web Application |
+| ⭐ **Goal** | Make code sharing as easy as sending a message |
 
 ---
 
@@ -69,11 +98,16 @@ dlqwklklwqdljkw
 
 <div align="center">
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manas-Rastogi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+<img src="https://github-readme-stats.vercel.app/api?username=Manas-Rastogi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Rastogi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Rastogi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Manas-Rastogi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+<img src="https://streak-stats.demolab.com?user=Manas-Rastogi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="60%"/>
+
+<br/><br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Rastogi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true)
 
 </div>
 
@@ -81,18 +115,21 @@ dlqwklklwqdljkw
 
 ## 📫 Let's Connect
 
+<div align="center">
+
 I'm always open to interesting conversations, collaborations, and new opportunities.
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 [manasrastogi64@gmail.com](mailto:manasrastogi64@gmail.com)
-- 🐙 [GitHub](https://github.com/Manas-Rastogi)
+| Platform | Link |
+|:---:|:---:|
+| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/) |
+| 📧 Email | [manasrastogi64@gmail.com](mailto:manasrastogi64@gmail.com) |
+| 🐙 GitHub | [Manas-Rastogi](https://github.com/Manas-Rastogi) |
+
+</div>
 
 ---
 
+<!-- Footer Banner -->
 <div align="center">
-
-### ⭐ Code. Create. Conquer.
-
-*If you like what I build, consider leaving a star on my repos — it means a 
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1f35,100:0D1117&height=120&section=footer&text=⭐%20Code.%20Create.%20Conquer.&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 </div>
