@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building **[CodeWeaver](https://github.com/Avenger-manas/CodeWeaver)** — a platform to craft & share code seamlessly
-- 🌱 Always learning something newjsjsjj sssk in the Java & Spring ecosystem
+- 🌱 Alwjkdwqkjdk  j ejwlqjekjweekays learning something newjsjsjj sssk in the Java & Spring ecosystem
 - 💡 I enjoy turning klwqwkqo  kwwkqkwqwklwklwqw swwcomplex problems into clean, maintainable solutions
 - ⚡ Fun fact: I debug better with coffee ☕
 
