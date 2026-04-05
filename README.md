@@ -93,6 +93,6 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 
 ### ⭐ Code. Create. Conquer.
 
-*If you like what I build, consider leaving a star on my repos — it means a lot!*
+*If you like what I build, consider leaving a star on my repos — it means a 
 
 </div>
