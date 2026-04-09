@@ -6,7 +6,7 @@
 <!-- Subtitle -->
 <div align="center">
 
-### `Java & Spring Boot Developer` · `Problem Solver` · `Always Learning`
+#### `Java & Spring Boot Developer` · `Problem Solver` · `Always Learning`
 
 > *Turning ideas into scalable, real-world applications — one commit at a time.*
 
