@@ -45,7 +45,7 @@ public class Manas extends Developer {
 }
 ```
 
----
+---------------------------------------------------
 
 ## 🚀 Tech Stack
 
