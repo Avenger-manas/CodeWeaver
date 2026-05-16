@@ -77,7 +77,7 @@ public class Manas extends Developer {
 
 </div>
 
----
+---------------------------------------------------
 
 ## 🏆 Featured Project
 
